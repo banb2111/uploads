@@ -1,0 +1,6 @@
+
+{dede:type typeid='1'}
+
+<a href="[field:typeurl/]">[field:typename/]</a> 
+
+{/dede:type}
